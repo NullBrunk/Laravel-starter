@@ -10,8 +10,7 @@
 A simple Laravel starter kit 
 </div>
 
-This is a simple Laravel Starter Kit with Auth preimplemented (Migration, Model, Controller & Middlewares). Routing has also been preconfigured, as well as the login and signup views.<br>
-This Laravel installation also comes with a minimal CSS preconfiguration, and Laravel Debugbar.
+This is a simple Laravel Starter Kit with Auth preimplemented (Migration, Model, Controller & Middlewares). Routing has also been preconfigured, as well as the login and signup views.
 
 # Installation
 
